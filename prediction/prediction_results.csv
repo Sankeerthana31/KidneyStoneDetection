@@ -1,0 +1,2 @@
+image,image_path,predicted_class,negative_probability_percent,positive_probability_percent,confidence_percent,status
+284.jpg,C:\Users\sanke\Downloads\Dataset\Dataset\dataset_integrated_task\cross_validation\Test\Fold_1\Negative\284.jpg,Negative,98.73136878013611,1.2686367146670818,98.73136878013611,Success
